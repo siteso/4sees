@@ -75,7 +75,12 @@ p
  }
 
 
-
+.nav-link:after {
+    content: "|";
+    position: absolute;
+    top: 16px;
+    margin-left: -10px;
+}
 
 /* 4 C's Hover Effect */
 .four-sees
