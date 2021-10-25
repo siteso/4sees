@@ -61,6 +61,7 @@ p
   /* font-size: 1.4em; */
   padding-top: 3%;
   padding-bottom: 5%;
+  overflow: hidden;
  }
 
 .content p
@@ -68,6 +69,7 @@ p
   font-family: 'Lora', cursive;
   margin: 2% auto;
   text-align: justify;
+  overflow: hidden;
  }
 
 
