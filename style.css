@@ -1,8 +1,8 @@
-/*  body
+ body
 {
   width: 65%;
   margin: 0 auto;
-}*/
+}
 
 
 
@@ -56,15 +56,22 @@ p
   font-family: 'Handlee', cursive;
 }
 
+.content
+{
+/*   font-family: 'Lora', cursive; */
+  width: 65%;
+  text-align: justify;
+  /* font-size: 1.4em; */
+  padding-top: 3%;
+  padding-bottom: 5%;
+ }
+
 .content p
 {
   font-family: 'Lora', cursive;
   width: 65%;
   /* margin: 2% auto; */
   text-align: justify;
-  /* font-size: 1.4em; */
-  padding-top: 3%;
-  padding-bottom: 5%;
  }
 
 
