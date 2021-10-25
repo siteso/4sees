@@ -55,8 +55,8 @@ p
 
 .content
 {
-/*   font-family: 'Lora', cursive; */
-/*   width: 65%; */
+ font-family: 'Lora', cursive;
+  width: 100%;
   text-align: justify;
   /* font-size: 1.4em; */
   padding-top: 3%;
