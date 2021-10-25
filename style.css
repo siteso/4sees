@@ -66,8 +66,8 @@ p
 .content p
 {
   font-family: 'Lora', cursive;
-/*   width: 65%; */
-  /* margin: 2% auto; */
+  width: 65%;
+  margin: 2% auto;
   text-align: justify;
  }
 
