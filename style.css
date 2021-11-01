@@ -11,9 +11,12 @@ background-size: cover;
 background-color: coral;
 background-color: hsla(89, 43%, 51%, 0.3);
 background-color: #cccccc;
-background-image: linear-gradient(red, yellow, green); */
-background-image: radial-gradient(#dcbe48, #f4eac3, #dcbe48);
-/* padding: 5%; */
+background-image: linear-gradient(red, yellow, green);
+padding: 5%; */
+/*THIS IS THE BEIGE ORIGINAL BACKGROUND
+background-image: radial-gradient(#dcbe48, #f4eac3, #dcbe48);*/
+background-image: radial-gradient(#569c33, #a7d78f, #569c33);
+/* 7fb465 */
 }
 
 
@@ -43,14 +46,15 @@ h1, h4
 p
 {
   font-family: 'Lora', cursive;
- 
+
 }
 
 .coverContent p
 {
-  width: 60%;
+  width: 90%;
   margin: 2% auto;
   font-family: 'Handlee', cursive;
+  font-size: 1.2em;
 }
 
 .content
@@ -175,17 +179,45 @@ p
 }
 
 .flip-card-front {
-  background-color: white;
-  color: black;
+  /* background-color: white;
+  color: black; */
   border-radius: 10px;
 }
 
+.flipCardImage
+{
+/* new code */
+position: relative;
+text-align: center;
+color: #d6f9c6;
+}
+
+.flipCardImage img
+{
+  opacity: 1;
+}
+
+/* .flipCardImage img:hover
+{
+opacity: 1;
+color: white;
+} */
+
+.centerOnImage
+{
+position: absolute;
+top: 80%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+
 .flip-card-back {
-  background-color: #623a05;
+  background-color: #083b0b; /*#0e4d12; #16641b*/
   color: white;
   transform: rotateY(180deg);
   padding: 10px 15px;
-  font-size: .9em;
+  /* font-size: .9em; */
   border-radius: 10px;
 }
 
