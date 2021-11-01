@@ -36,6 +36,16 @@ width: 60%;
 margin-top: 3%;
 }
 
+.title h1
+{
+width: 60%;
+}
+
+.title h3
+{
+width: 60%;
+}
+
 h1, h4
 {
   /* margin: 3% 10%; */
