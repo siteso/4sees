@@ -29,22 +29,13 @@ height: 200px;
 opacity: .2;
 } */
 
-
+/* 
 .title
 {
 width: 60%;
 margin-top: 3%;
-}
+} */
 
-.title h1
-{
-width: 60%;
-}
-
-.title h3
-{
-width: 60%;
-}
 
 h1, h4
 {
@@ -56,12 +47,11 @@ h1, h4
 p
 {
   font-family: 'Lora', cursive;
-
 }
 
 .coverContent p
 {
-  width: 60%;
+  width: 70%;
   margin: 2% auto;
   font-family: 'Handlee', cursive;
   font-size: 1.2em;
@@ -75,7 +65,9 @@ p
   padding-top: 3%;
   padding-bottom: 5%;
   overflow: hidden;
- }
+width: 70%;
+margin: auto;	
+}
 
 .content p
 {
@@ -83,18 +75,8 @@ p
   margin: 2% auto;
   text-align: justify;
   overflow: hidden;
- width: 60%;
  }
 
-.content h1
-{
-width: 60%;
-}
-
-.content img
-{
-width: 60%;
-}
 
 .dropdown:hover>.dropdown-menu {
  display: block;
