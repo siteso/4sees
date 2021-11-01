@@ -51,7 +51,7 @@ p
 
 .coverContent p
 {
-  width: 90%;
+  width: 70%;
   margin: 2% auto;
   font-family: 'Handlee', cursive;
   font-size: 1.2em;
@@ -60,7 +60,7 @@ p
 .content
 {
  font-family: 'Lora', cursive;
-  width: 100%;
+  width: 70%;
   text-align: justify;
   /* font-size: 1.4em; */
   padding-top: 3%;
