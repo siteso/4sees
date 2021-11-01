@@ -42,6 +42,8 @@ h1, h4
   /* margin: 3% 10%; */
   font-family: 'Handlee', cursive;
     /* font-family: cursive; */
+width: 70%;
+margin: auto;
 }
 
 p
@@ -77,6 +79,10 @@ margin: auto;
   overflow: hidden;
  }
 
+.content img
+{
+width: 28%;
+}	
 
 .dropdown:hover>.dropdown-menu {
  display: block;
