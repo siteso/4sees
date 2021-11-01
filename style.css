@@ -60,7 +60,6 @@ p
 .content
 {
  font-family: 'Lora', cursive;
-  width: 60%;
   text-align: justify;
   /* font-size: 1.4em; */
   padding-top: 3%;
@@ -74,8 +73,13 @@ p
   margin: 2% auto;
   text-align: justify;
   overflow: hidden;
+ width: 60%;
  }
 
+.content h1, h2, h3, h4, h5, h6
+{
+width: 60%;
+}
 
 .dropdown:hover>.dropdown-menu {
  display: block;
