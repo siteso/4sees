@@ -76,7 +76,12 @@ p
  width: 60%;
  }
 
-.content h1, .content img, .content h2
+.content h1
+{
+width: 60%;
+}
+
+.content img
 {
 width: 60%;
 }
