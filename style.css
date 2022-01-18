@@ -449,7 +449,7 @@ margin-top: 20px 30px;
 }
 
 .testimonial {
-    height: 550px;
+    height: 475px;
     position: relative;
     background: url(media/fireplace.jpg);
     /* padding-top: 50px;
@@ -630,8 +630,8 @@ margin-top: 20px 30px;
 
 .lightBackground
 {
-  background: rgba(0, 0, 0, 0.6)
-height: 550px;
+  background: rgba(0, 0, 0, 0.6);
+height: 475px;
 }
 
 
