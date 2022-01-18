@@ -621,7 +621,7 @@ margin-top: 20px 30px;
 
 .testimonial .carousel {
 	padding-bottom:50px;
-	  padding-top: 50px;
+	  padding-top: 50px !important;
 }
 .testimonial .carousel-control-next-icon, .testimonial .carousel-control-prev-icon {
     width: 35px;
