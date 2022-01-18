@@ -333,7 +333,8 @@ div.contact button:active
 div.clientsHolder
 {
 width: 900px;
-/* height: 800px; */
+/* 
+	: 800px; */
 margin: 20px auto;
 overflow: hidden; */
 }
@@ -443,13 +444,13 @@ margin-top: 20px 30px;
     background: url(img/heading-line.png);
     background-size: 100% 100px;
     width: 100%;
-    height: 100px;
+ /*   height: 100px;*/
     float: left;
     z-index: 99;
 }
 
 .testimonial {
-    height: 475px;
+    height: 500px;
     position: relative;
     background: url(media/fireplace.jpg);
     /* padding-top: 50px;
@@ -593,7 +594,7 @@ margin-top: 20px 30px;
     left: 0;
     right: 0;
     width: 136px;
-    height: 136px;
+ */   height: 136px; */
     margin: auto;
     display: block;
     padding-top: 5px;
@@ -631,7 +632,7 @@ margin-top: 20px 30px;
 .lightBackground
 {
   background: rgba(0, 0, 0, 0.6);
-height: 475px;
+height: 500px;
 }
 
 
